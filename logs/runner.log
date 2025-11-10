@@ -1,0 +1,14 @@
+
+ NIFTY 50 AUTOMATIC FETCHER
+
+======================================================================
+NIFTY 50 DATA FETCHER - ROBUST VERSION
+======================================================================
+ Trading Date (indicative): 2025-11-10
+ Fetch Time: 22:07:53
+
+Fetching stocks:
+----------------------------------------------------------------------
+[ 1/50] RELIANCE.NS          
+ FATAL ERROR: 'charmap' codec can't encode character '\u2717' in position 0: character maps to <undefined>
+Check log: C:\Nifty_50\logs\nifty50_2025-11-10.log

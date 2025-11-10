@@ -1,0 +1,509 @@
+{
+  "schema_version": "1.0",
+  "fetch_date": "2025-11-10",
+  "fetch_time": "2025-11-10 20:35:43",
+  "market_status": "closed",
+  "total_stocks": 50,
+  "stocks": [
+    {
+      "symbol": "RELIANCE",
+      "company_name": "RELIANCE",
+      "date": "2025-11-10",
+      "open": 1477.9,
+      "high": 1501.0,
+      "low": 1475.5,
+      "close": 1489.3,
+      "volume": 7067592
+    },
+    {
+      "symbol": "TCS",
+      "company_name": "TCS",
+      "date": "2025-11-10",
+      "open": 2993.0,
+      "high": 3047.9,
+      "low": 2992.0,
+      "close": 3025.2,
+      "volume": 1556510
+    },
+    {
+      "symbol": "HDFCBANK",
+      "company_name": "HDFCBANK",
+      "date": "2025-11-10",
+      "open": 982.3,
+      "high": 990.95,
+      "low": 980.2,
+      "close": 984.5,
+      "volume": 15987789
+    },
+    {
+      "symbol": "INFY",
+      "company_name": "INFY",
+      "date": "2025-11-10",
+      "open": 1490.1,
+      "high": 1520.0,
+      "low": 1490.0,
+      "close": 1513.5,
+      "volume": 9785489
+    },
+    {
+      "symbol": "ICICIBANK",
+      "company_name": "ICICIBANK",
+      "date": "2025-11-10",
+      "open": 1342.9,
+      "high": 1349.6,
+      "low": 1341.0,
+      "close": 1348.0,
+      "volume": 8542171
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "company_name": "HINDUNILVR",
+      "date": "2025-11-10",
+      "open": 2405.0,
+      "high": 2429.3,
+      "low": 2404.0,
+      "close": 2408.8,
+      "volume": 780497
+    },
+    {
+      "symbol": "ITC",
+      "company_name": "ITC",
+      "date": "2025-11-10",
+      "open": 404.05,
+      "high": 407.1,
+      "low": 403.65,
+      "close": 405.55,
+      "volume": 6649478
+    },
+    {
+      "symbol": "SBIN",
+      "company_name": "SBIN",
+      "date": "2025-11-10",
+      "open": 956.0,
+      "high": 963.2,
+      "low": 949.1,
+      "close": 951.15,
+      "volume": 7342829
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "company_name": "BHARTIARTL",
+      "date": "2025-11-10",
+      "open": 1995.0,
+      "high": 2028.8,
+      "low": 1992.2,
+      "close": 2019.8,
+      "volume": 7456757
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "company_name": "KOTAKBANK",
+      "date": "2025-11-10",
+      "open": 2081.0,
+      "high": 2104.8,
+      "low": 2081.0,
+      "close": 2092.7,
+      "volume": 2173185
+    },
+    {
+      "symbol": "LT",
+      "company_name": "LT",
+      "date": "2025-11-10",
+      "open": 3895.0,
+      "high": 3943.8,
+      "low": 3894.0,
+      "close": 3918.5,
+      "volume": 1396995
+    },
+    {
+      "symbol": "AXISBANK",
+      "company_name": "AXISBANK",
+      "date": "2025-11-10",
+      "open": 1222.0,
+      "high": 1232.8,
+      "low": 1215.5,
+      "close": 1217.0,
+      "volume": 4140529
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "company_name": "ASIANPAINT",
+      "date": "2025-11-10",
+      "open": 2613.8,
+      "high": 2666.8,
+      "low": 2611.1,
+      "close": 2650.4,
+      "volume": 1706819
+    },
+    {
+      "symbol": "MARUTI",
+      "company_name": "MARUTI",
+      "date": "2025-11-10",
+      "open": 15380.0,
+      "high": 15647.0,
+      "low": 15380.0,
+      "close": 15583.0,
+      "volume": 274166
+    },
+    {
+      "symbol": "TITAN",
+      "company_name": "TITAN",
+      "date": "2025-11-10",
+      "open": 3788.0,
+      "high": 3815.0,
+      "low": 3769.3,
+      "close": 3803.0,
+      "volume": 599554
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "company_name": "SUNPHARMA",
+      "date": "2025-11-10",
+      "open": 1697.5,
+      "high": 1703.1,
+      "low": 1685.8,
+      "close": 1697.8,
+      "volume": 1235458
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "company_name": "ULTRACEMCO",
+      "date": "2025-11-10",
+      "open": 11851.0,
+      "high": 11890.0,
+      "low": 11701.0,
+      "close": 11728.0,
+      "volume": 197082
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "company_name": "BAJFINANCE",
+      "date": "2025-11-10",
+      "open": 1066.6,
+      "high": 1088.0,
+      "low": 1062.9,
+      "close": 1085.0,
+      "volume": 5689513
+    },
+    {
+      "symbol": "NESTLEIND",
+      "company_name": "NESTLEIND",
+      "date": "2025-11-10",
+      "open": 1263.1,
+      "high": 1273.2,
+      "low": 1260.2,
+      "close": 1262.9,
+      "volume": 737956
+    },
+    {
+      "symbol": "HCLTECH",
+      "company_name": "HCLTECH",
+      "date": "2025-11-10",
+      "open": 1518.0,
+      "high": 1544.9,
+      "low": 1511.4,
+      "close": 1540.5,
+      "volume": 1558698
+    },
+    {
+      "symbol": "WIPRO",
+      "company_name": "WIPRO",
+      "date": "2025-11-10",
+      "open": 237.44,
+      "high": 241.55,
+      "low": 237.02,
+      "close": 239.84,
+      "volume": 8564386
+    },
+    {
+      "symbol": "POWERGRID",
+      "company_name": "POWERGRID",
+      "date": "2025-11-10",
+      "open": 268.6,
+      "high": 270.55,
+      "low": 266.55,
+      "close": 268.2,
+      "volume": 10715962
+    },
+    {
+      "symbol": "NTPC",
+      "company_name": "NTPC",
+      "date": "2025-11-10",
+      "open": 326.1,
+      "high": 328.25,
+      "low": 324.0,
+      "close": 325.45,
+      "volume": 5245966
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "company_name": "TATAMOTORS",
+      "date": "2025-11-07",
+      "open": 406.7,
+      "high": 407.2,
+      "low": 401.45,
+      "close": 405.7,
+      "volume": 6930046
+    },
+    {
+      "symbol": "TATASTEEL",
+      "company_name": "TATASTEEL",
+      "date": "2025-11-10",
+      "open": 182.03,
+      "high": 182.51,
+      "low": 180.2,
+      "close": 181.48,
+      "volume": 18373092
+    },
+    {
+      "symbol": "M&M",
+      "company_name": "M&M",
+      "date": "2025-11-10",
+      "open": 3690.2,
+      "high": 3715.8,
+      "low": 3645.1,
+      "close": 3663.9,
+      "volume": 1620846
+    },
+    {
+      "symbol": "BAJAJFINSV",
+      "company_name": "BAJAJFINSV",
+      "date": "2025-11-10",
+      "open": 2114.7,
+      "high": 2126.8,
+      "low": 2096.3,
+      "close": 2118.3,
+      "volume": 985046
+    },
+    {
+      "symbol": "TECHM",
+      "company_name": "TECHM",
+      "date": "2025-11-10",
+      "open": 1386.7,
+      "high": 1404.3,
+      "low": 1383.6,
+      "close": 1397.8,
+      "volume": 2883318
+    },
+    {
+      "symbol": "ADANIENT",
+      "company_name": "ADANIENT",
+      "date": "2025-11-10",
+      "open": 2380.9,
+      "high": 2388.0,
+      "low": 2364.0,
+      "close": 2370.7,
+      "volume": 559772
+    },
+    {
+      "symbol": "ONGC",
+      "company_name": "ONGC",
+      "date": "2025-11-10",
+      "open": 252.0,
+      "high": 255.5,
+      "low": 249.5,
+      "close": 251.4,
+      "volume": 7417149
+    },
+    {
+      "symbol": "COALINDIA",
+      "company_name": "COALINDIA",
+      "date": "2025-11-10",
+      "open": 376.1,
+      "high": 382.4,
+      "low": 376.1,
+      "close": 381.35,
+      "volume": 4450343
+    },
+    {
+      "symbol": "DIVISLAB",
+      "company_name": "DIVISLAB",
+      "date": "2025-11-10",
+      "open": 6700.0,
+      "high": 6748.0,
+      "low": 6636.5,
+      "close": 6691.5,
+      "volume": 418568
+    },
+    {
+      "symbol": "GRASIM",
+      "company_name": "GRASIM",
+      "date": "2025-11-10",
+      "open": 2738.0,
+      "high": 2789.0,
+      "low": 2728.7,
+      "close": 2762.9,
+      "volume": 489517
+    },
+    {
+      "symbol": "HINDALCO",
+      "company_name": "HINDALCO",
+      "date": "2025-11-10",
+      "open": 792.0,
+      "high": 799.9,
+      "low": 783.85,
+      "close": 785.2,
+      "volume": 5912640
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "company_name": "INDUSINDBK",
+      "date": "2025-11-10",
+      "open": 791.0,
+      "high": 807.8,
+      "low": 791.0,
+      "close": 799.35,
+      "volume": 1894597
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "company_name": "JSWSTEEL",
+      "date": "2025-11-10",
+      "open": 1174.0,
+      "high": 1185.0,
+      "low": 1172.0,
+      "close": 1179.3,
+      "volume": 740223
+    },
+    {
+      "symbol": "BRITANNIA",
+      "company_name": "BRITANNIA",
+      "date": "2025-11-10",
+      "open": 6190.0,
+      "high": 6261.5,
+      "low": 6121.5,
+      "close": 6133.5,
+      "volume": 395488
+    },
+    {
+      "symbol": "CIPLA",
+      "company_name": "CIPLA",
+      "date": "2025-11-10",
+      "open": 1510.0,
+      "high": 1516.7,
+      "low": 1503.9,
+      "close": 1511.5,
+      "volume": 1143938
+    },
+    {
+      "symbol": "EICHERMOT",
+      "company_name": "EICHERMOT",
+      "date": "2025-11-10",
+      "open": 6870.0,
+      "high": 6915.5,
+      "low": 6800.5,
+      "close": 6866.5,
+      "volume": 514340
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "company_name": "HEROMOTOCO",
+      "date": "2025-11-10",
+      "open": 5310.0,
+      "high": 5410.0,
+      "low": 5300.5,
+      "close": 5359.5,
+      "volume": 347951
+    },
+    {
+      "symbol": "DRREDDY",
+      "company_name": "DRREDDY",
+      "date": "2025-11-10",
+      "open": 1199.4,
+      "high": 1209.5,
+      "low": 1195.0,
+      "close": 1198.7,
+      "volume": 3482971
+    },
+    {
+      "symbol": "APOLLOHOSP",
+      "company_name": "APOLLOHOSP",
+      "date": "2025-11-10",
+      "open": 7631.5,
+      "high": 7652.5,
+      "low": 7515.0,
+      "close": 7529.5,
+      "volume": 377625
+    },
+    {
+      "symbol": "BPCL",
+      "company_name": "BPCL",
+      "date": "2025-11-10",
+      "open": 366.3,
+      "high": 369.8,
+      "low": 363.65,
+      "close": 365.15,
+      "volume": 6934001
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "company_name": "ADANIPORTS",
+      "date": "2025-11-10",
+      "open": 1452.2,
+      "high": 1463.9,
+      "low": 1441.0,
+      "close": 1444.9,
+      "volume": 1161221
+    },
+    {
+      "symbol": "TATACONSUM",
+      "company_name": "TATACONSUM",
+      "date": "2025-11-10",
+      "open": 1167.2,
+      "high": 1173.8,
+      "low": 1138.6,
+      "close": 1142.7,
+      "volume": 1586318
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "company_name": "BAJAJ-AUTO",
+      "date": "2025-11-10",
+      "open": 8795.0,
+      "high": 8838.0,
+      "low": 8685.5,
+      "close": 8772.0,
+      "volume": 992855
+    },
+    {
+      "symbol": "SHRIRAMFIN",
+      "company_name": "SHRIRAMFIN",
+      "date": "2025-11-10",
+      "open": 822.0,
+      "high": 830.7,
+      "low": 816.65,
+      "close": 821.1,
+      "volume": 8623352
+    },
+    {
+      "symbol": "SBILIFE",
+      "company_name": "SBILIFE",
+      "date": "2025-11-10",
+      "open": 2000.1,
+      "high": 2017.9,
+      "low": 1985.2,
+      "close": 1989.3,
+      "volume": 1087154
+    },
+    {
+      "symbol": "LTIM",
+      "company_name": "LTIM",
+      "date": "2025-11-10",
+      "open": 5575.0,
+      "high": 5695.0,
+      "low": 5575.0,
+      "close": 5643.0,
+      "volume": 139341
+    },
+    {
+      "symbol": "BEL",
+      "company_name": "BEL",
+      "date": "2025-11-10",
+      "open": 415.95,
+      "high": 420.4,
+      "low": 414.0,
+      "close": 416.85,
+      "volume": 9280736
+    }
+  ]
+}

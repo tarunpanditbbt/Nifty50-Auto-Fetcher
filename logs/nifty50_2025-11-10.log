@@ -1,0 +1,167 @@
+2025-11-10 20:03:45,698 - INFO - cwd=C:\Nifty_50 | basedir=C:\Nifty_50 | outdir=C:\Nifty_50\nifty50_data | logdir=C:\Nifty_50\logs | py=3.14.0
+2025-11-10 20:03:45,698 - INFO - 
+======================================================================
+2025-11-10 20:03:45,698 - INFO - SCRIPT EXECUTION STARTED
+2025-11-10 20:03:45,699 - INFO - ======================================================================
+2025-11-10 20:03:45,699 - INFO - ======================================================================
+2025-11-10 20:03:45,699 - INFO - STARTING NIFTY 50 DATA FETCH
+2025-11-10 20:03:45,699 - INFO - ======================================================================
+2025-11-10 20:03:45,700 - INFO - Fetching actual trading date...
+2025-11-10 20:03:46,510 - INFO - Actual trading date from data: 2025-11-10
+2025-11-10 20:03:46,510 - INFO - Fetching (initial target): 2025-11-10
+2025-11-10 20:03:46,548 - INFO - RELIANCE.NS: Success - \u20b91489.3
+2025-11-10 20:03:46,992 - INFO - TCS.NS: Success - \u20b93025.2
+2025-11-10 20:03:47,522 - INFO - HDFCBANK.NS: Success - \u20b9984.5
+2025-11-10 20:03:48,103 - INFO - INFY.NS: Success - \u20b91513.5
+2025-11-10 20:03:48,616 - INFO - ICICIBANK.NS: Success - \u20b91348.0
+2025-11-10 20:03:49,077 - INFO - HINDUNILVR.NS: Success - \u20b92408.8
+2025-11-10 20:03:49,533 - INFO - ITC.NS: Success - \u20b9405.55
+2025-11-10 20:03:49,921 - INFO - SBIN.NS: Success - \u20b9951.15
+2025-11-10 20:03:50,419 - INFO - BHARTIARTL.NS: Success - \u20b92019.8
+2025-11-10 20:03:51,016 - INFO - KOTAKBANK.NS: Success - \u20b92092.7
+2025-11-10 20:03:51,502 - INFO - LT.NS: Success - \u20b93918.5
+2025-11-10 20:03:51,921 - INFO - AXISBANK.NS: Success - \u20b91217.0
+2025-11-10 20:03:52,340 - INFO - ASIANPAINT.NS: Success - \u20b92650.4
+2025-11-10 20:03:52,802 - INFO - MARUTI.NS: Success - \u20b915583.0
+2025-11-10 20:03:53,328 - INFO - TITAN.NS: Success - \u20b93803.0
+2025-11-10 20:03:53,800 - INFO - SUNPHARMA.NS: Success - \u20b91697.8
+2025-11-10 20:03:54,245 - INFO - ULTRACEMCO.NS: Success - \u20b911728.0
+2025-11-10 20:03:54,682 - INFO - BAJFINANCE.NS: Success - \u20b91085.0
+2025-11-10 20:03:55,452 - INFO - NESTLEIND.NS: Success - \u20b91262.9
+2025-11-10 20:03:55,922 - INFO - HCLTECH.NS: Success - \u20b91540.5
+2025-11-10 20:03:56,422 - INFO - WIPRO.NS: Success - \u20b9239.84
+2025-11-10 20:03:56,812 - INFO - POWERGRID.NS: Success - \u20b9268.2
+2025-11-10 20:03:57,215 - INFO - NTPC.NS: Success - \u20b9325.45
+2025-11-10 20:03:57,644 - INFO - TATAMOTORS.NS: Success - \u20b9405.7
+2025-11-10 20:03:58,115 - INFO - TATASTEEL.NS: Success - \u20b9181.48
+2025-11-10 20:03:58,572 - INFO - M&M.NS: Success - \u20b93663.9
+2025-11-10 20:03:59,001 - INFO - BAJAJFINSV.NS: Success - \u20b92118.3
+2025-11-10 20:03:59,504 - INFO - TECHM.NS: Success - \u20b91397.8
+2025-11-10 20:04:00,066 - INFO - ADANIENT.NS: Success - \u20b92370.7
+2025-11-10 20:04:00,574 - INFO - ONGC.NS: Success - \u20b9251.4
+2025-11-10 20:04:00,961 - INFO - COALINDIA.NS: Success - \u20b9381.35
+2025-11-10 20:04:01,460 - INFO - DIVISLAB.NS: Success - \u20b96691.5
+2025-11-10 20:04:01,932 - INFO - GRASIM.NS: Success - \u20b92762.9
+2025-11-10 20:04:02,446 - INFO - HINDALCO.NS: Success - \u20b9785.2
+2025-11-10 20:04:02,904 - INFO - INDUSINDBK.NS: Success - \u20b9799.35
+2025-11-10 20:04:03,415 - INFO - JSWSTEEL.NS: Success - \u20b91179.3
+2025-11-10 20:04:03,853 - INFO - BRITANNIA.NS: Success - \u20b96133.5
+2025-11-10 20:04:04,311 - INFO - CIPLA.NS: Success - \u20b91511.5
+2025-11-10 20:04:04,748 - INFO - EICHERMOT.NS: Success - \u20b96866.5
+2025-11-10 20:04:05,288 - INFO - HEROMOTOCO.NS: Success - \u20b95359.5
+2025-11-10 20:04:05,784 - INFO - DRREDDY.NS: Success - \u20b91198.7
+2025-11-10 20:04:06,226 - INFO - APOLLOHOSP.NS: Success - \u20b97529.5
+2025-11-10 20:04:06,683 - INFO - BPCL.NS: Success - \u20b9365.15
+2025-11-10 20:04:07,109 - INFO - ADANIPORTS.NS: Success - \u20b91444.9
+2025-11-10 20:04:07,594 - INFO - TATACONSUM.NS: Success - \u20b91142.7
+2025-11-10 20:04:08,046 - INFO - BAJAJ-AUTO.NS: Success - \u20b98772.0
+2025-11-10 20:04:08,546 - INFO - SHRIRAMFIN.NS: Success - \u20b9821.1
+2025-11-10 20:04:08,927 - INFO - SBILIFE.NS: Success - \u20b91989.3
+2025-11-10 20:04:09,368 - INFO - LTIM.NS: Success - \u20b95643.0
+2025-11-10 20:04:09,891 - INFO - BEL.NS: Success - \u20b9416.85
+2025-11-10 20:04:10,220 - INFO - Summary: 50 success, 0 failed, 0 invalid
+2025-11-10 20:04:10,220 - INFO - Time taken: 23.7s
+2025-11-10 20:04:10,220 - INFO - Final fetch_date set to: 2025-11-10
+2025-11-10 20:04:10,221 - INFO - File exists, overwriting: C:\Nifty_50\nifty50_data\nifty50_2025-11-10.json
+2025-11-10 20:04:10,229 - INFO - File saved: C:\Nifty_50\nifty50_data\nifty50_2025-11-10.json (11.1 KB)
+2025-11-10 20:04:10,230 - INFO - Script completed successfully
+2025-11-10 20:35:40,980 - INFO - cwd=C:\Nifty_50 | basedir=C:\Nifty_50 | outdir=C:\Nifty_50\nifty50_data | logdir=C:\Nifty_50\logs | py=3.14.0
+2025-11-10 20:35:40,980 - INFO - 
+======================================================================
+2025-11-10 20:35:40,980 - INFO - SCRIPT EXECUTION STARTED
+2025-11-10 20:35:40,980 - INFO - ======================================================================
+2025-11-10 20:35:40,981 - INFO - ======================================================================
+2025-11-10 20:35:40,981 - INFO - STARTING NIFTY 50 DATA FETCH
+2025-11-10 20:35:40,981 - INFO - ======================================================================
+2025-11-10 20:35:40,981 - INFO - Fetching actual trading date...
+2025-11-10 20:35:43,095 - INFO - Actual trading date from data: 2025-11-10
+2025-11-10 20:35:43,096 - INFO - Fetching (initial target): 2025-11-10
+2025-11-10 20:35:43,138 - INFO - RELIANCE.NS: Success - \u20b91489.3
+2025-11-10 20:35:43,574 - INFO - TCS.NS: Success - \u20b93025.2
+2025-11-10 20:35:43,991 - INFO - HDFCBANK.NS: Success - \u20b9984.5
+2025-11-10 20:35:44,400 - INFO - INFY.NS: Success - \u20b91513.5
+2025-11-10 20:35:44,926 - INFO - ICICIBANK.NS: Success - \u20b91348.0
+2025-11-10 20:35:45,343 - INFO - HINDUNILVR.NS: Success - \u20b92408.8
+2025-11-10 20:35:46,005 - INFO - ITC.NS: Success - \u20b9405.55
+2025-11-10 20:35:46,553 - INFO - SBIN.NS: Success - \u20b9951.15
+2025-11-10 20:35:47,106 - INFO - BHARTIARTL.NS: Success - \u20b92019.8
+2025-11-10 20:35:47,591 - INFO - KOTAKBANK.NS: Success - \u20b92092.7
+2025-11-10 20:35:48,127 - INFO - LT.NS: Success - \u20b93918.5
+2025-11-10 20:35:48,595 - INFO - AXISBANK.NS: Success - \u20b91217.0
+2025-11-10 20:35:48,975 - INFO - ASIANPAINT.NS: Success - \u20b92650.4
+2025-11-10 20:35:49,509 - INFO - MARUTI.NS: Success - \u20b915583.0
+2025-11-10 20:35:50,040 - INFO - TITAN.NS: Success - \u20b93803.0
+2025-11-10 20:35:50,504 - INFO - SUNPHARMA.NS: Success - \u20b91697.8
+2025-11-10 20:35:50,991 - INFO - ULTRACEMCO.NS: Success - \u20b911728.0
+2025-11-10 20:35:51,473 - INFO - BAJFINANCE.NS: Success - \u20b91085.0
+2025-11-10 20:35:51,989 - INFO - NESTLEIND.NS: Success - \u20b91262.9
+2025-11-10 20:35:52,580 - INFO - HCLTECH.NS: Success - \u20b91540.5
+2025-11-10 20:35:52,977 - INFO - WIPRO.NS: Success - \u20b9239.84
+2025-11-10 20:35:53,551 - INFO - POWERGRID.NS: Success - \u20b9268.2
+2025-11-10 20:35:53,966 - INFO - NTPC.NS: Success - \u20b9325.45
+2025-11-10 20:35:54,438 - INFO - TATAMOTORS.NS: Success - \u20b9405.7
+2025-11-10 20:35:55,023 - INFO - TATASTEEL.NS: Success - \u20b9181.48
+2025-11-10 20:35:55,544 - INFO - M&M.NS: Success - \u20b93663.9
+2025-11-10 20:35:56,006 - INFO - BAJAJFINSV.NS: Success - \u20b92118.3
+2025-11-10 20:35:56,541 - INFO - TECHM.NS: Success - \u20b91397.8
+2025-11-10 20:35:57,116 - INFO - ADANIENT.NS: Success - \u20b92370.7
+2025-11-10 20:35:57,582 - INFO - ONGC.NS: Success - \u20b9251.4
+2025-11-10 20:35:58,044 - INFO - COALINDIA.NS: Success - \u20b9381.35
+2025-11-10 20:35:58,488 - INFO - DIVISLAB.NS: Success - \u20b96691.5
+2025-11-10 20:35:58,931 - INFO - GRASIM.NS: Success - \u20b92762.9
+2025-11-10 20:35:59,437 - INFO - HINDALCO.NS: Success - \u20b9785.2
+2025-11-10 20:35:59,834 - INFO - INDUSINDBK.NS: Success - \u20b9799.35
+2025-11-10 20:36:00,250 - INFO - JSWSTEEL.NS: Success - \u20b91179.3
+2025-11-10 20:36:00,744 - INFO - BRITANNIA.NS: Success - \u20b96133.5
+2025-11-10 20:36:01,231 - INFO - CIPLA.NS: Success - \u20b91511.5
+2025-11-10 20:36:01,703 - INFO - EICHERMOT.NS: Success - \u20b96866.5
+2025-11-10 20:36:02,084 - INFO - HEROMOTOCO.NS: Success - \u20b95359.5
+2025-11-10 20:36:02,606 - INFO - DRREDDY.NS: Success - \u20b91198.7
+2025-11-10 20:36:03,081 - INFO - APOLLOHOSP.NS: Success - \u20b97529.5
+2025-11-10 20:36:03,585 - INFO - BPCL.NS: Success - \u20b9365.15
+2025-11-10 20:36:04,036 - INFO - ADANIPORTS.NS: Success - \u20b91444.9
+2025-11-10 20:36:04,551 - INFO - TATACONSUM.NS: Success - \u20b91142.7
+2025-11-10 20:36:05,015 - INFO - BAJAJ-AUTO.NS: Success - \u20b98772.0
+2025-11-10 20:36:05,494 - INFO - SHRIRAMFIN.NS: Success - \u20b9821.1
+2025-11-10 20:36:05,956 - INFO - SBILIFE.NS: Success - \u20b91989.3
+2025-11-10 20:36:06,370 - INFO - LTIM.NS: Success - \u20b95643.0
+2025-11-10 20:36:06,794 - INFO - BEL.NS: Success - \u20b9416.85
+2025-11-10 20:36:07,056 - INFO - Summary: 50 success, 0 failed, 0 invalid
+2025-11-10 20:36:07,056 - INFO - Time taken: 24.0s
+2025-11-10 20:36:07,056 - INFO - Final fetch_date set to: 2025-11-10
+2025-11-10 20:36:07,056 - INFO - File exists, overwriting: C:\Nifty_50\nifty50_data\nifty50_2025-11-10.json
+2025-11-10 20:36:07,064 - INFO - File saved: C:\Nifty_50\nifty50_data\nifty50_2025-11-10.json (11.1 KB)
+2025-11-10 20:36:07,064 - INFO - Script completed successfully
+2025-11-10 22:07:52,234 - INFO - cwd=C:\Nifty_50 | basedir=C:\Nifty_50 | outdir=C:\Nifty_50\nifty50_data | logdir=C:\Nifty_50\logs | py=3.14.0
+2025-11-10 22:07:52,235 - INFO - 
+======================================================================
+2025-11-10 22:07:52,235 - INFO - SCRIPT EXECUTION STARTED
+2025-11-10 22:07:52,235 - INFO - ======================================================================
+2025-11-10 22:07:52,235 - INFO - ======================================================================
+2025-11-10 22:07:52,235 - INFO - STARTING NIFTY 50 DATA FETCH
+2025-11-10 22:07:52,235 - INFO - ======================================================================
+2025-11-10 22:07:52,235 - INFO - Fetching actual trading date...
+2025-11-10 22:07:53,137 - INFO - Actual trading date from data: 2025-11-10
+2025-11-10 22:07:53,137 - INFO - Fetching (initial target): 2025-11-10
+2025-11-10 22:07:53,174 - CRITICAL - Fatal error: 'charmap' codec can't encode character '\u2717' in position 0: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\Nifty_50\Nifty50_base.py", line 241, in fetch_stock_data
+    print(f"\u2713 \u20b9{stock_data['close']:>8.2f}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91766\AppData\Local\Programs\Python\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Nifty_50\Nifty50_base.py", line 326, in <module>
+    stock_data = fetch_stock_data()
+  File "C:\Nifty_50\Nifty50_base.py", line 254, in fetch_stock_data
+    print(f"\u2717 Error: {str(error)[:30]}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\91766\AppData\Local\Programs\Python\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2717' in position 0: character maps to <undefined>
