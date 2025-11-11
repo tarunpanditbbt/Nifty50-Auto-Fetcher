@@ -1,37 +1,19 @@
 @echo off
-REM ============================================================================
-REM NIFTY 50 AUTO RUNNER
-REM Run this file to fetch Nifty 50 data manually or via Task Scheduler
-REM ============================================================================
+REM ============================================================
+REM  NIFTY 50 AUTO RUNNER - CLIENT SAFE VERSION
+REM ============================================================
 
-echo ============================================================
-echo NIFTY 50 DATA FETCHER - AUTO RUN
-echo ============================================================
-echo.
+cd /d "C:\Nifty_50" || (echo Failed to access project folder & exit /b 1)
 
-REM Move to project root (the folder that contains venv and Nifty50_base.py)
-cd /d "%~dp0.."
-echo Current Directory: %CD%
-echo.
+if not exist "nifty50_data" mkdir "nifty50_data"
+if not exist "logs" mkdir "logs"
 
-REM Make sure folders exist
-if not exist "nifty50_data" mkdir nifty50_data
-if not exist "logs" mkdir logs
-
-REM Run Python script using your venv (this is very important!)
 echo Running Nifty50_base.py...
-echo.
+"C:\Nifty_50\venv\Scripts\python.exe" "C:\Nifty_50\Nifty50_base.py" >> "C:\Nifty_50\logs\runner.log" 2>&1
 
-venv\Scripts\python.exe Nifty50_base.py >> logs\runner.log 2>&1
-set "EXITCODE=%ERRORLEVEL%"
-
-echo.
-echo ============================================================
-echo Script Completed (exit code=%EXITCODE%)
-echo ============================================================
-echo.
-
-REM Pause only if run manually (not from Task Scheduler)
-if "%~1"=="" pause
-
-exit /b %EXITCODE%
+if %ERRORLEVEL%==0 (
+    echo SUCCESS: JSON created in nifty50_data
+) else (
+    echo ERROR: Check logs\runner.log for details
+)
+exit /b %ERRORLEVEL%

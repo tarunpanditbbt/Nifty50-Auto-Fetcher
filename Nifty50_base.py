@@ -238,20 +238,20 @@ def fetch_stock_data():
                 if validate_stock_data(stock_data):
                     all_data["stocks"].append(stock_data)
                     success_count += 1
-                    print(f"✓ ₹{stock_data['close']:>8.2f}")
-                    logging.info(f"{symbol}: Success - ₹{stock_data['close']}")
+                    print(f" {stock_data['close']:>8.2f}")
+                    logging.info(f"{symbol}: Success - {stock_data['close']}")
                 else:
                     invalid_count += 1
                     print("Invalid data")
                     logging.warning(f"{symbol}: Invalid data, rejected")
             else:
                 fail_count += 1
-                print("✗ No data")
+                print(" No data")
                 logging.warning(f"{symbol}: No data available")
             time.sleep(0.25 + random.uniform(0, 0.15))  # jitter
         except Exception as error:
             fail_count += 1
-            print(f"✗ Error: {str(error)[:30]}")
+            print(f" Error: {str(error)[:30]}")
             logging.error(f"{symbol}: Error - {str(error)}")
 
     elapsed = time.time() - start_time
@@ -263,8 +263,8 @@ def fetch_stock_data():
 
     print("-" * 70)
     print("\n SUMMARY:")
-    print(f"   ✓ Successful:  {success_count:2d}/50")
-    print(f"   ✗ Failed:      {fail_count:2d}/50")
+    print(f"    Successful:  {success_count:2d}/50")
+    print(f"     Failed:      {fail_count:2d}/50")
     print(f"     Invalid:     {invalid_count:2d}/50")
     print(f"     Time taken:  {elapsed:.1f}s")
     print("=" * 70)
